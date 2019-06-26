@@ -1,0 +1,23 @@
+h3 {
+    color: #ac8daf;
+    text-decoration: underline;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+body {
+    background-color: #c8dad3;
+}
+
+.hobi {
+    color: #ac8daf;
+    font-weight: bold;
+
+}
+
+p {
+    text-align: center;
+}
+
+h5 {
+    text-align: center
+}
